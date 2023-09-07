@@ -1,0 +1,24 @@
+
+
+1.Click the ‘play’ option in the middle of the screen. 
+2.Once the game has located an opponent, you will each be taken to the 
+  play screen, where you will have 5 minutes to create a music clip. 
+3.To create your 30 second music, you can switch between beat pads. 
+  Click one of the available squares to play the audio. Multiple squares are able
+  to be played at the same time.
+4.You may record audio directly from the app, such as your voice. 
+5.Click the start button to start recording your music clip. 
+6.The recording may be stopped at any time.
+7.You are allowed to delete your audio clip.
+8.Once the 5 minutes are up, you will asked to submit the audio clip that
+  you have created. You also have the option to save the audio clip to 
+  your own personal library.
+9.Once you have submitted your audio clip, you will be taken out of the 
+  competition mode and back to the home page.
+10.Your audio clip as well as your opponents will be uploaded to the 
+   voting page, where other users are able to listen to both and vote for 
+   the one that they prefer. 
+11.The audio clips will be up until one of the competitions reach 30 votes,
+   and then the winner’s score will increase.
+12.This will change your place on the leader board, as well as possibly 
+   increase your level.

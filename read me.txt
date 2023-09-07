@@ -1,0 +1,16 @@
+The login frame should be executed as the main class for the user to sign in. 
+From there the user is taken to the Home Screen and is able to access all other screens.
+
+All audio and text files required are saved in the project.
+
+The following libraries are needed to run the program.
+1.	Ucanaccess library (version 5.0.1)
+2.	Jackcess library (version 3.0.0) – required to use Ucanaccess
+3.	Commons-lang-3 library (version 3.8.1) – required to use Ucanaccess
+4.	Commons-logging library (version 1.2) – required to use Ucanaccess
+5.	hsqldb library (version 2.5.0) – required to use Ucanaccess
+
+You may create a new account or use:
+username: jennapr
+password: password1
+to log in
